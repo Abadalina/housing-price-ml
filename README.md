@@ -53,7 +53,7 @@ housing-price-ml/
 ## Installation & usage
 
 ```bash
-git clone https://github.com/alejandroabadal/housing-price-ml.git
+git clone https://github.com/Abadalina/housing-price-ml.git
 cd housing-price-ml
 pip install -r requirements.txt
 jupyter notebook notebooks/02_housing_price_ml.ipynb
